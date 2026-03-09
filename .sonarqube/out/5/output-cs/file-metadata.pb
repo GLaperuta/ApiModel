@@ -1,0 +1,10 @@
+i
+`C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\Behaviors\CachingBehaviorTests.csutf-8_
+VC:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\Domain\TodoItemTests.csutf-8s
+jC:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\Middlewares\CorrelationIdMiddlewareTests.csutf-8o
+fC:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\Middlewares\ExceptionMiddlewareTests.csutf-8{
+pC:\Users\Guilherme\.nuget\packages\microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.Program.csutf-8}
+rC:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\obj\Debug\net10.0\MyApi.UnitTests.GlobalUsings.g.csutf-8Œ
+€C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8{
+pC:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\obj\Debug\net10.0\MyApi.UnitTests.AssemblyInfo.csutf-8ò
+æC:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.UnitTests\obj\Debug\net10.0\Microsoft.AspNetCore.OpenApi.SourceGenerators\Microsoft.AspNetCore.OpenApi.SourceGenerators.XmlCommentGenerator\OpenApiXmlCommentSupport.generated.csutf-8

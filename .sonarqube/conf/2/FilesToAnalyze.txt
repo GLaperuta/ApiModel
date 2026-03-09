@@ -1,0 +1,9 @@
+﻿C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Behaviors\CachingBehavior.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\Create\CreateTodoCommand.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\Create\CreateTodoHandler.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetAll\GetAllTodosHandler.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetAll\GetAllTodosQuery.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetById\GetTodoByIdHandler.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetById\GetTodoByIdQuery.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\Interfaces\ICachedQuery.cs
+C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\TodoDto.cs

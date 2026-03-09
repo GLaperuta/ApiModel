@@ -1,0 +1,10 @@
+^
+UC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\Controllers\TodosController.csutf-8f
+]C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\Middlewares\CorrelationIdMiddleware.csutf-8b
+YC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\Middlewares\ExceptionMiddleware.csutf-8J
+AC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\Program.csutf-8o
+dC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\obj\Debug\net10.0\MyApi.Api.GlobalUsings.g.csutf-8ƒ
+xC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8m
+bC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\obj\Debug\net10.0\MyApi.Api.AssemblyInfo.csutf-8€
+uC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\obj\Debug\net10.0\MyApi.Api.MvcApplicationPartsAssemblyInfo.csutf-8ê
+ÞC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Api\obj\Debug\net10.0\Microsoft.AspNetCore.OpenApi.SourceGenerators\Microsoft.AspNetCore.OpenApi.SourceGenerators.XmlCommentGenerator\OpenApiXmlCommentSupport.generated.csutf-8

@@ -1,0 +1,17 @@
+﻿C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TodosApiTests.cs
+C:\Users\Guilherme\.nuget\packages\microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Guilherme\.nuget\packages\microsoft.testplatform.testhost\17.14.1\build\net8.0\x64\testhost.exe
+C:\Users\Guilherme\.nuget\packages\microsoft.testplatform.testhost\17.14.1\build\net8.0\x64\testhost.dll
+C:\Users\Guilherme\.nuget\packages\xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.abstractions.dll
+C:\Users\Guilherme\.nuget\packages\xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\14a241d9-bb2b-4174-98c3-fe1007ac145a\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\173038bf-b2db-4158-b948-a67173250eb0\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\230116c2-88f1-481d-9f2e-035c0f4994ab\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\2ac5f370-7ba7-4c90-96a7-68b6f296f75d\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\2d09f223-0515-4713-8346-c8a2725d888e\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\48bc71df-8da7-4996-b561-103713b25519\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\6b4a346a-6a32-491f-bb4b-76b3a92c7812\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\ccaabd6a-2a4a-46df-89c5-18415797f6de\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\ccb965a1-d16b-4541-8de6-ce08287bc53c\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\db42ee11-e508-4584-9e4d-dd85c7b5b49d\coverage.cobertura.xml
+C:\Users\Guilherme\source\repos\ApiModel\tests\MyApi.E2ETests\TestResults\eb5ace87-2abc-40af-bcea-9b9126010343\coverage.cobertura.xml

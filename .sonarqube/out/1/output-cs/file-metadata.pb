@@ -1,0 +1,12 @@
+l
+cC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Caching\Interfaces\IRedisCache.csutf-8`
+WC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Caching\RedisCache.csutf-8f
+]C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Database\DatabaseContext.csutf-8u
+lC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Migrations\20260304025547_InitialCreate.csutf-8Ä
+uC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Migrations\20260304025547_InitialCreate.Designer.csutf-8w
+lC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Migrations\DatabaseContextModelSnapshot.csutf-8u
+lC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Repositories\Interfaces\ITodoRepository.csutf-8i
+`C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\Repositories\TodoRepository.csutf-8Ö
+zC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\obj\Debug\net10.0\MyApi.Infrastructure.GlobalUsings.g.csutf-8è
+ÉC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8É
+xC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Infrastructure\obj\Debug\net10.0\MyApi.Infrastructure.AssemblyInfo.csutf-8

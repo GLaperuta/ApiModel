@@ -1,0 +1,13 @@
+d
+[C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Behaviors\CachingBehavior.csutf-8i
+`C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\Create\CreateTodoCommand.csutf-8i
+`C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\Create\CreateTodoHandler.csutf-8j
+aC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetAll\GetAllTodosHandler.csutf-8h
+_C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetAll\GetAllTodosQuery.csutf-8k
+bC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetById\GetTodoByIdHandler.csutf-8i
+`C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\GetById\GetTodoByIdQuery.csutf-8h
+_C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\Interfaces\ICachedQuery.csutf-8X
+OC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\Todos\TodoDto.csutf-8
+tC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\obj\Debug\net10.0\MyApi.Application.GlobalUsings.g.csutf-8Œ
+€C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8}
+rC:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Application\obj\Debug\net10.0\MyApi.Application.AssemblyInfo.csutf-8

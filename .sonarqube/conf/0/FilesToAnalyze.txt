@@ -1,0 +1,1 @@
+﻿C:\Users\Guilherme\source\repos\ApiModel\src\MyApi.Domain\Models\TodoItem.cs
